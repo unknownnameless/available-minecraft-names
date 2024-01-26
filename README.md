@@ -1,6 +1,6 @@
 # Available Username Lists Minecraft Java
 
-I wanted a new username...
+I wanted a new username... If anyone else wants to try some of these usernames or use them for inspiration it would make the amount of work I put into this just to choose my own username more worthwhile 
 
 I prefer usernames that are one word with no symbols or numbers, shorter the better. It is quite hard to get good and especially short words anymore with A. the amount of players and B. username sniping and bots, so I parsed some lists of english words for available minecraft usernames.
 

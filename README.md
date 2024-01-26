@@ -47,7 +47,7 @@ antithetic
 
 unevenness 
 
-nondominant (this is most surprising to me as no one has ever claimed this )
+nondominant ( this is most surprising to me as no one has ever claimed this )
 
 noninteractive 
 

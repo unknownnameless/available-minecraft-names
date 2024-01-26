@@ -14,6 +14,8 @@ archived for my sake, work done on Jan 25 2024, not updated past that date
 
 this is the best list to glance thru [Hand Sorted Lists/S_Tier.txt](https://github.com/unknownnameless/available-minecraft-names/blob/master/Hand%20Sorted%20Lists/S_Tier.txt)
 
+lists are randomized because on the lists like the 200k long one I wanted to be able to glance thru and have random chance of finding good words instead of useless alphabetized lists where all I can see is As for 25,000 lines
+
 ------------------------------------------------------------
 
 Cool Names becoming available soon:

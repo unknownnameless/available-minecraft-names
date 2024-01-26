@@ -1,4 +1,5 @@
-# Available Username Lists
+# Available Username Lists Minecraft Java
+
 
 I prefer usernames that are one word with no symbols or numbers, so I parsed some lists of english words for available minecraft usernames
 

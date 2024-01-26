@@ -2,7 +2,7 @@
 
 I prefer usernames that are one word with no symbols or numbers, so I parsed some lists of english words for available minecraft usernames
 
-this included a 300k long list of english words (completely unnecessary)
+this included a 300k long list of english words (completely unnecessary, resulted in 200k words available as usernames)
 
 but there are also some more usefull lists made including hand sorted lists
 

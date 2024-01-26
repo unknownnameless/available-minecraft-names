@@ -15,6 +15,7 @@ archived for my sake, work done on Jan 25 2024, not updated past that date
 ------------------------------------------------------------
 
 Cool Names becoming available soon:
+------------------------------------------------------------
 
 centimeter 1/27
 
@@ -35,9 +36,12 @@ reamed 2/2
 purest 2/17
 
 (good luck if you trying to beat bots)
+
+
 ------------------------------------------------------------
 
 My favorite usernames found:
+------------------------------------------------------------
 
 antithetic 
 

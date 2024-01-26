@@ -10,7 +10,7 @@ archived because it was a lot of work work done on Jan 25 2024, not updated past
 
 (be aware there are a lot of offensive and curse words in some of the lists because the raw lists I downloaded contained offensive words and the method of username checking did not differentiate whether the words were banned or not)
 
-imo these are the best available usernames rn
+imo these are the best available usernames I found
 
 antithetic 
 

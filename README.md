@@ -11,7 +11,7 @@ archived for my sake, work done on Jan 25 2024, not updated past that date
 
 (be aware there are a lot of offensive and curse words randomly dispersed in some of the lists because the raw lists and offensive words are popular words and in a lot of data sources I downloaded contained offensive words and the method of username checking did not differentiate whether the words were banned or not)
 
-this is the best list to glance thru Hand Sorted Lists/S_Tier.txt
+this is the best list to glance thru [Hand Sorted Lists/S_Tier.txt](https://github.com/unknownnameless/available-minecraft-names/blob/master/Hand%20Sorted%20Lists/S_Tier.txt)
 
 ------------------------------------------------------------
 

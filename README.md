@@ -8,7 +8,7 @@ but there are also some more usefull lists made including hand sorted lists
 
 archived for my sake, work done on Jan 25 2024, not updated past that date
 
-(be aware there are a lot of offensive and curse words in some of the lists because the raw lists I downloaded contained offensive words and the method of username checking did not differentiate whether the words were banned or not)
+(be aware there are a lot of offensive and curse words randomly dispersed in some of the lists because the raw lists and offensive words are popular words and in a lot of data sources I downloaded contained offensive words and the method of username checking did not differentiate whether the words were banned or not)
 
 My favorite usernames found:
 

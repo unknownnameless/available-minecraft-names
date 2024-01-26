@@ -40,7 +40,7 @@ purest 2/17
 
 ------------------------------------------------------------
 
-My favorite usernames found:
+My favorite usernames I found:
 ------------------------------------------------------------
 
 antithetic 

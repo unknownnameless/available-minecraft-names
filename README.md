@@ -19,8 +19,6 @@ Cool Names becoming available soon:
 
 centimeter 1/27
 
-calender 1/31
-
 crock 2/27
 
 depraved 1/27

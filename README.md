@@ -11,20 +11,31 @@ archived for my sake, work done on Jan 25 2024, not updated past that date
 
 (be aware there are a lot of offensive and curse words randomly dispersed in some of the lists because the raw lists and offensive words are popular words and in a lot of data sources I downloaded contained offensive words and the method of username checking did not differentiate whether the words were banned or not)
 
+
+------------------------------------------------------------
+
 Cool Names becoming available soon:
 
 centimeter 1/27
+
 calender 1/31
+
 crock 2/27
+
 depraved 1/27
+
 looped 2/28
+
 unwind 2/5
+
 revolving 2/2
+
 reamed 2/2
+
 purest 2/17
 
 (good luck if you trying to beat bots)
-
+------------------------------------------------------------
 
 My favorite usernames found:
 

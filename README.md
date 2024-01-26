@@ -1,11 +1,11 @@
 # Available Username Lists Minecraft Java
 
 
-I prefer usernames that are one word with no symbols or numbers, so I parsed some lists of english words for available minecraft usernames
+I prefer usernames that are one word with no symbols or numbers, shorter the better. It is quite hard to get good and especially short words anymore with A. the amount of players and B. username sniping and bots, so I parsed some lists of english words for available minecraft usernames.
 
 this included a 300k long list of english words (completely unnecessary, resulted in 200k words available as usernames)
 
-but there are also some more usefull lists made including hand sorted lists
+but there are also some more usefull lists made including filtered for popularity and then handsorted popular words
 
 archived for my sake, work done on Jan 25 2024, not updated past that date
 
@@ -42,39 +42,41 @@ purest 2/17
 My favorite usernames I found:
 ------------------------------------------------------------
 
+**earmarked**
+
 mineowner
 
 antithetic 
 
 unevenness 
 
-nondominant ( this is most surprising to me as no one has ever claimed this )
+**nondominant** ( this is most surprising to me as no one has ever claimed this )
 
 noninteractive 
 
-basename 
+**basename**
 
-pebbled 
+**pebbled**
 
 surnamed 
 
 unembarrassed 
 
-Rareties 
+**Rareties**
 
 Thorniness 
 
-thorniest 
+**thorniest**
 
-unladylike 
+**unladylike**
 
 overpotential  
 
-obsolescent 
+**obsolescent**
 
-beatification 
+**beatification**
 
-lengthier 
+**lengthier**
 
 soapberries
 

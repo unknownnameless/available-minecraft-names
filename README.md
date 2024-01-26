@@ -35,7 +35,7 @@ reamed 2/2
 
 purest 2/17
 
-(good luck if you trying to beat bots)
+(good luck trying to beat bots)
 
 
 ------------------------------------------------------------
